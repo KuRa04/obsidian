@@ -1,6 +1,4 @@
-[https://gihyo.jp/news/report/01/GoCon2014Autumn/0002](https://gihyo.jp/news/report/01/GoCon2014Autumn/0002)
-
-## ✅ シンプルで学習しやすい文法
+##  ✅シンプルで学習しやすい文法
 
 - 文法がコンパクトで読みやすく、C言語系の経験がなくても比較的すぐに習得可能。
 - コードスタイルの強制（`gofmt`）により、読みやすいコードが保たれる。
